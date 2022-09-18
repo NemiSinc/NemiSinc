@@ -45,10 +45,10 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "ec0bwizhc8",
+    "mbrsiteDomain": "wdgmliefhl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -68,7 +68,8 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "google-analytics": "G-E8HVNGBBQ7"
   },
   "pages": {
     "index.html": {
