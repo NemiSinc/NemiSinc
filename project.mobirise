@@ -45,7 +45,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "wdgmliefhl",
+    "mbrsiteDomain": "fox5az33nu",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -69,7 +69,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "publishChangesOnly": false,
-    "google-analytics": "G-E8HVNGBBQ7"
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-E8HVNGBBQ7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-E8HVNGBBQ7');\n</script>"
   },
   "pages": {
     "index.html": {
